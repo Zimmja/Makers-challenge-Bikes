@@ -1,5 +1,5 @@
 class Bike
-  def working?
+  def is_working?
     true
   end
 end
