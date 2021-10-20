@@ -47,5 +47,13 @@ We continued to reference this Domain Model throughout the project.
 - With files setup, we wrote spec.rb tests followed by code to pass these tests up to the point of producing passable "release_bike" and "is_working?" methods
 - Checked usability with irb throughout (even with error messages anticipated), examing error messages as we worked through the challenges
 
+### Challenges 11 - 13
+
+These challenges were completed with **Ben Dowsett**.
+
+- Created rspec tests involving functions with parameters
+- Created rspec tests to monitor for errors
+
 ### Credits
 Luke Carney
+Ben Dowsett
