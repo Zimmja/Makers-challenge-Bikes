@@ -1,4 +1,4 @@
-require 'dockingstation'
+require 'docking_station'
 
 describe DockingStation do 
    docking_station = DockingStation.new

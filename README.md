@@ -55,5 +55,5 @@ These challenges were completed with **Ben Dowsett**.
 - Created rspec tests to monitor for errors
 
 ### Credits
-Luke Carney
+Luke Carney,
 Ben Dowsett
