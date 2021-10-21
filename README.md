@@ -50,10 +50,24 @@ We continued to reference this Domain Model throughout the project.
 ### Challenges 11 - 13
 
 These challenges were completed with **Ben Dowsett**.
+Commits pulled from Ben's repository.
 
 - Created rspec tests involving functions with parameters
 - Created rspec tests to monitor for errors
 
+### Challenges 14 - 17
+
+These challenges were completed with **Simon Jacobs**.
+Commits pulled from Simon's repository.
+
+- Using TDD and pair programming, updated docking_station to store up to a set capacity of bikes, with a default value that could be overwritten on initiation
+- Explored the Single Repository Principle; updated code to fit more in-line with it
+
+### Challenges 18
+
+- Using TDD, implemented x3 new user stories to 1) enable reporting of broken bikes, 2) allow storage of any bike (broken or working) in the dock, and 3) prevent the release of broken bikes
+
 ### Credits
 Luke Carney,
-Ben Dowsett
+Ben Dowsett,
+Simon Jacobs
