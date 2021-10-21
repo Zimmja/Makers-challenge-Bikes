@@ -63,9 +63,30 @@ Commits pulled from Simon's repository.
 - Using TDD and pair programming, updated docking_station to store up to a set capacity of bikes, with a default value that could be overwritten on initiation
 - Explored the Single Repository Principle; updated code to fit more in-line with it
 
-### Challenges 18
+### Challenges 18 - 20
 
-- Using TDD, implemented x3 new user stories to 1) enable reporting of broken bikes, 2) allow storage of any bike (broken or working) in the dock, and 3) prevent the release of broken bikes
+These challenges were completed solo.
+
+##### Challenge 18 - dealing with broken bikes
+Using TDD, implemented x3 new user stories:
+Story 1:
+*As a member of the public,*
+*So that I reduce the chance of getting a broken bike in future,*
+*I'd like to report a bike as broken when I return it.*
+
+Story 2:
+*As a maintainer of the system,*
+*So that I can manage broken bikes and not disappoint users,*
+*I'd like docking stations not to release broken bikes.*
+
+Story 2:
+*As a maintainer of the system,*
+*So that I can manage broken bikes and not disappoint users,*
+*I'd like docking stations to accept returning bikes (broken or not).*
+
+##### Challenges 19 and 20 - isolating tests with doubles
+- Introduced doubles with method stubs to isolate tests
+- Added behaviour to doubles to allow functions to be passed
 
 ### Credits
 Luke Carney,
